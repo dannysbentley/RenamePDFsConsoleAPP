@@ -1,0 +1,6 @@
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\bin\Debug\RenamePDFSConsoleApp.exe.config
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\bin\Debug\RenamePDFSConsoleApp.exe
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\bin\Debug\RenamePDFSConsoleApp.pdb
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\obj\Debug\RenamePDFSConsoleApp.csprojResolveAssemblyReference.cache
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\obj\Debug\RenamePDFSConsoleApp.exe
+F:\00-PROGRAMMING SOM\RenamePDFSConsoleApp\RenamePDFSConsoleApp\obj\Debug\RenamePDFSConsoleApp.pdb
